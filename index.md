@@ -1,6 +1,6 @@
 ## Participantes
 
-```fix 
+
 
 Medusa Geek-   [Link](https://bit.ly/medusahyper)
 
@@ -28,4 +28,4 @@ Tonigonn-      [Link](https://bit.ly/tonigonnhyper)
 
 URSO TV-       [Link](https://bit.ly/ursotvhyper)
 
-O Abel Joga-   [Link](http://bit.ly/oabeljogahyper) ```
+O Abel Joga-   [Link](http://bit.ly/oabeljogahyper)
