@@ -2,7 +2,7 @@
 
 
 
-```markdown
+```diff
 - text in red
 + text in green
 ! text in orange
@@ -10,15 +10,15 @@
 @@ text in purple (and bold)@@
  
 
-# Medusa Geek-   [Link](https://bit.ly/medusahyper) @@
+!🔶 Medusa Geek-   [Link](https://bit.ly/medusahyper) @@
 
-FloriFive-     [Link](https://bit.ly/florihyper)
+!🔶FloriFive-     [Link](https://bit.ly/florihyper)
 
-senarafa-      [Link](https://bit.ly/senarafahyper)
+!senarafa-      [Link](https://bit.ly/senarafahyper)
 
-Betoldo13-     [Link](https://bit.ly/betoldohyper)
+!Betoldo13-     [Link](https://bit.ly/betoldohyper)
 
-Bielfoxyy-     [Link](https://bit.ly/byelfoxyyhyper)
+!Bielfoxyy-     [Link](https://bit.ly/byelfoxyyhyper)
 
 FokaJoga-      [Link](https://bit.ly/fokahyper)
 
