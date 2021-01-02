@@ -2,7 +2,7 @@
 
 
 
-```diff
+```markdown
 - text in red
 + text in green
 ! text in orange
@@ -10,7 +10,7 @@
 @@ text in purple (and bold)@@
  
 
-@@ Medusa Geek-   [Link](https://bit.ly/medusahyper) @@
+# Medusa Geek-   [Link](https://bit.ly/medusahyper) @@
 
 FloriFive-     [Link](https://bit.ly/florihyper)
 
