@@ -8,9 +8,9 @@
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-``` 
+ 
 
-Medusa Geek-   [Link](https://bit.ly/medusahyper)
+@ Medusa Geek-   [Link](https://bit.ly/medusahyper)
 
 FloriFive-     [Link](https://bit.ly/florihyper)
 
@@ -37,3 +37,4 @@ Tonigonn-      [Link](https://bit.ly/tonigonnhyper)
 URSO TV-       [Link](https://bit.ly/ursotvhyper)
 
 O Abel Joga-   [Link](http://bit.ly/oabeljogahyper)
+```
